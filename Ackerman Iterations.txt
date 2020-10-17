@@ -1,0 +1,7 @@
+2020-10-17 19:03:56.203891
+Wheel Base: 54
+Track Front: 48.645669
+Outer Angle: 35.45
+Inner Angle: 63.53
+Ackerman :63.26589719791617
+Ackerman Percentage: 100.94946713458381
