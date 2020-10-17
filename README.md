@@ -6,6 +6,7 @@ Ackerman steering geometry is a geometric arrangement of linkages in the steerin
 In a typical Ackerman steering system, the car has tie-rod linkages and steering arms that form an approximate parallelogram which skews to one side as the wheels turn. If the steering arms are parallel, then both wheels are steered to the same angle.
 
 ## YouTube video demostrating the code
-Watch the below video.<br/>
+Watch the folowing video to see how to use the code with the steering geometry designed.<br/>
+<br/>
 [![Watch the video](https://img.youtube.com/vi/E890sKvDf6M/hqdefault.jpg)](https://youtu.be/E890sKvDf6M)
 
