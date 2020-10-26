@@ -8,6 +8,5 @@ In a typical Ackerman steering system, the car has tie-rod linkages and steering
 ## YouTube video demostrating the code
 Watch the folowing video to see how to use the code with the steering geometry designed.<br/>
 <br/>
-<p align="center">
 [![Watch the video](https://img.youtube.com/vi/E890sKvDf6M/hqdefault.jpg)](https://youtu.be/E890sKvDf6M)
-</p>
+
